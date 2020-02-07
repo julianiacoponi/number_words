@@ -1,0 +1,817 @@
+2020-01-30 02:09:21 jiacopon@jiacopon-ubuntu-02 ~/work/shell_scripts$ python3 number_words.pyfound: 4
+- Number: 0 spelled "zero"
+- Currently missing: {3}
+
+
+found: 3
+- Number: 1 spelled "one"
+- All numbers up to 4 found so far
+
+
+found: 5
+- Number: 3 spelled "three"
+- All numbers up to 5 found so far
+
+
+found: 6
+- Number: 11 spelled "eleven"
+- All numbers up to 6 found so far
+
+
+found: 8
+- Number: 13 spelled "thirteen"
+- Currently missing: {7}
+
+
+found: 7
+- Number: 15 spelled "fifteen"
+- All numbers up to 8 found so far
+
+
+found: 9
+- Number: 17 spelled "seventeen"
+- All numbers up to 9 found so far
+
+
+found: 10
+- Number: 21 spelled "twenty-one"
+- All numbers up to 10 found so far
+
+
+found: 12
+- Number: 23 spelled "twenty-three"
+- Currently missing: {11}
+
+
+found: 11
+- Number: 24 spelled "twenty-four"
+- All numbers up to 12 found so far
+
+
+found: 13
+- Number: 73 spelled "seventy-three"
+- All numbers up to 13 found so far
+
+
+found: 19
+- Number: 101 spelled "one hundred and one"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 21
+- Number: 103 spelled "one hundred and three"
+- Currently missing: {14, 15, 16, 17, 18, 20}
+
+
+found: 20
+- Number: 104 spelled "one hundred and four"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 22
+- Number: 111 spelled "one hundred and eleven"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 24
+- Number: 113 spelled "one hundred and thirteen"
+- Currently missing: {14, 15, 16, 17, 18, 23}
+
+
+found: 23
+- Number: 115 spelled "one hundred and fifteen"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 25
+- Number: 117 spelled "one hundred and seventeen"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 26
+- Number: 121 spelled "one hundred and twenty-one"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 28
+- Number: 123 spelled "one hundred and twenty-three"
+- Currently missing: {14, 15, 16, 17, 18, 27}
+
+
+found: 27
+- Number: 124 spelled "one hundred and twenty-four"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 29
+- Number: 173 spelled "one hundred and seventy-three"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 30
+- Number: 323 spelled "three hundred and twenty-three"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 31
+- Number: 373 spelled "three hundred and seventy-three"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 32
+- Number: 1101 spelled "one thousand one hundred and one"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 34
+- Number: 1103 spelled "one thousand one hundred and three"
+- Currently missing: {33, 14, 15, 16, 17, 18}
+
+
+found: 33
+- Number: 1104 spelled "one thousand one hundred and four"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 35
+- Number: 1111 spelled "one thousand one hundred and eleven"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 37
+- Number: 1113 spelled "one thousand one hundred and thirteen"
+- Currently missing: {36, 14, 15, 16, 17, 18}
+
+
+found: 36
+- Number: 1115 spelled "one thousand one hundred and fifteen"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 38
+- Number: 1117 spelled "one thousand one hundred and seventeen"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 39
+- Number: 1121 spelled "one thousand one hundred and twenty-one"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 41
+- Number: 1123 spelled "one thousand one hundred and twenty-three"
+- Currently missing: {40, 14, 15, 16, 17, 18}
+
+
+found: 40
+- Number: 1124 spelled "one thousand one hundred and twenty-four"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 42
+- Number: 1173 spelled "one thousand one hundred and seventy-three"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 43
+- Number: 1323 spelled "one thousand three hundred and twenty-three"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 44
+- Number: 1373 spelled "one thousand three hundred and seventy-three"
+- Currently missing: {14, 15, 16, 17, 18}
+
+
+found: 14
+- Number: 3000 spelled "three thousand"
+- Currently missing: {16, 17, 18, 15}
+
+
+found: 45
+- Number: 3323 spelled "three thousand three hundred and twenty-three"
+- Currently missing: {16, 17, 18, 15}
+
+
+found: 46
+- Number: 3373 spelled "three thousand three hundred and seventy-three"
+- Currently missing: {16, 17, 18, 15}
+
+
+found: 15
+- Number: 11000 spelled "eleven thousand"
+- Currently missing: {16, 17, 18}
+
+
+found: 47
+- Number: 11373 spelled "eleven thousand three hundred and seventy-three"
+- Currently missing: {16, 17, 18}
+
+
+found: 17
+- Number: 13000 spelled "thirteen thousand"
+- Currently missing: {16, 18}
+
+
+found: 48
+- Number: 13323 spelled "thirteen thousand three hundred and twenty-three"
+- Currently missing: {16, 18}
+
+
+found: 49
+- Number: 13373 spelled "thirteen thousand three hundred and seventy-three"
+- Currently missing: {16, 18}
+
+
+found: 16
+- Number: 15000 spelled "fifteen thousand"
+- Currently missing: {18}
+
+
+found: 18
+- Number: 17000 spelled "seventeen thousand"
+- All numbers up to 49 found so far
+
+
+found: 50
+- Number: 17373 spelled "seventeen thousand three hundred and seventy-three"
+- All numbers up to 50 found so far
+
+
+found: 51
+- Number: 21373 spelled "twenty-one thousand three hundred and seventy-three"
+- All numbers up to 51 found so far
+
+
+found: 52
+- Number: 23323 spelled "twenty-three thousand three hundred and twenty-three"
+- All numbers up to 52 found so far
+
+
+found: 53
+- Number: 23373 spelled "twenty-three thousand three hundred and seventy-three"
+- All numbers up to 53 found so far
+
+
+found: 54
+- Number: 73373 spelled "seventy-three thousand three hundred and seventy-three"
+- All numbers up to 54 found so far
+
+
+found: 55
+- Number: 101121 spelled "one hundred and one thousand one hundred and twenty-one"
+- All numbers up to 55 found so far
+
+
+found: 57
+- Number: 101123 spelled "one hundred and one thousand one hundred and twenty-three"
+- Currently missing: {56}
+
+
+found: 56
+- Number: 101124 spelled "one hundred and one thousand one hundred and twenty-four"
+- All numbers up to 57 found so far
+
+
+found: 58
+- Number: 101173 spelled "one hundred and one thousand one hundred and seventy-three"
+- All numbers up to 58 found so far
+
+
+found: 59
+- Number: 101323 spelled "one hundred and one thousand three hundred and twenty-three"
+- All numbers up to 59 found so far
+
+
+found: 60
+- Number: 101373 spelled "one hundred and one thousand three hundred and seventy-three"
+- All numbers up to 60 found so far
+
+
+found: 61
+- Number: 103323 spelled "one hundred and three thousand three hundred and twenty-three"
+- All numbers up to 61 found so far
+
+
+found: 62
+- Number: 103373 spelled "one hundred and three thousand three hundred and seventy-three"
+- All numbers up to 62 found so far
+
+
+found: 63
+- Number: 111373 spelled "one hundred and eleven thousand three hundred and seventy-three"
+- All numbers up to 63 found so far
+
+
+found: 64
+- Number: 113323 spelled "one hundred and thirteen thousand three hundred and twenty-three"
+- All numbers up to 64 found so far
+
+
+found: 65
+- Number: 113373 spelled "one hundred and thirteen thousand three hundred and seventy-three"
+- All numbers up to 65 found so far
+
+
+found: 66
+- Number: 117373 spelled "one hundred and seventeen thousand three hundred and seventy-three"
+- All numbers up to 66 found so far
+
+
+found: 67
+- Number: 121373 spelled "one hundred and twenty-one thousand three hundred and seventy-three"
+- All numbers up to 67 found so far
+
+
+found: 68
+- Number: 123323 spelled "one hundred and twenty-three thousand three hundred and twenty-three"
+- All numbers up to 68 found so far
+
+
+found: 69
+- Number: 123373 spelled "one hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 69 found so far
+
+
+found: 70
+- Number: 173373 spelled "one hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 70 found so far
+
+
+found: 71
+- Number: 323373 spelled "three hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 71 found so far
+
+
+found: 72
+- Number: 373373 spelled "three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 72 found so far
+
+
+found: 73
+- Number: 1103323 spelled "one million one hundred and three thousand three hundred and twenty-three"
+- All numbers up to 73 found so far
+
+
+found: 74
+- Number: 1103373 spelled "one million one hundred and three thousand three hundred and seventy-three"
+- All numbers up to 74 found so far
+
+
+found: 75
+- Number: 1111373 spelled "one million one hundred and eleven thousand three hundred and seventy-three"
+- All numbers up to 75 found so far
+
+
+found: 76
+- Number: 1113323 spelled "one million one hundred and thirteen thousand three hundred and twenty-three"
+- All numbers up to 76 found so far
+
+
+found: 77
+- Number: 1113373 spelled "one million one hundred and thirteen thousand three hundred and seventy-three"
+- All numbers up to 77 found so far
+
+
+found: 78
+- Number: 1117373 spelled "one million one hundred and seventeen thousand three hundred and seventy-three"
+- All numbers up to 78 found so far
+
+
+found: 79
+- Number: 1121373 spelled "one million one hundred and twenty-one thousand three hundred and seventy-three"
+- All numbers up to 79 found so far
+
+
+found: 80
+- Number: 1123323 spelled "one million one hundred and twenty-three thousand three hundred and twenty-three"
+- All numbers up to 80 found so far
+
+
+found: 81
+- Number: 1123373 spelled "one million one hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 81 found so far
+
+
+found: 82
+- Number: 1173373 spelled "one million one hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 82 found so far
+
+
+found: 83
+- Number: 1323373 spelled "one million three hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 83 found so far
+
+
+found: 84
+- Number: 1373373 spelled "one million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 84 found so far
+
+
+found: 85
+- Number: 3323373 spelled "three million three hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 85 found so far
+
+
+found: 86
+- Number: 3373373 spelled "three million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 86 found so far
+
+
+found: 87
+- Number: 11373373 spelled "eleven million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 87 found so far
+
+
+found: 88
+- Number: 13323373 spelled "thirteen million three hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 88 found so far
+
+
+found: 89
+- Number: 13373373 spelled "thirteen million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 89 found so far
+
+
+found: 90
+- Number: 17373373 spelled "seventeen million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 90 found so far
+
+
+found: 91
+- Number: 21373373 spelled "twenty-one million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 91 found so far
+
+
+found: 92
+- Number: 23323373 spelled "twenty-three million three hundred and twenty-three thousand three hundred and seventy-three"
+- All numbers up to 92 found so far
+
+
+found: 93
+- Number: 23373373 spelled "twenty-three million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 93 found so far
+
+
+found: 94
+- Number: 73373373 spelled "seventy-three million three hundred and seventy-three thousand three hundred and seventy-three"
+- All numbers up to 94 found so far
+
+
+____________________________________________________________________________________________________
+FINISHED searching in range 0-100000000
+----------------------------------------------------------------------------------------------------
+{3: [1, 'one'],
+ 4: [0, 'zero'],
+ 5: [3, 'three'],
+ 6: [11, 'eleven'],
+ 7: [15, 'fifteen'],
+ 8: [13, 'thirteen'],
+ 9: [17, 'seventeen'],
+ 10: [21, 'twenty-one'],
+ 11: [24, 'twenty-four'],
+ 12: [23, 'twenty-three'],
+ 13: [73, 'seventy-three'],
+ 14: [3000, 'three thousand'],
+ 15: [11000, 'eleven thousand'],
+ 16: [15000, 'fifteen thousand'],
+ 17: [13000, 'thirteen thousand'],
+ 18: [17000, 'seventeen thousand'],
+ 19: [101, 'one hundred and one'],
+ 20: [104, 'one hundred and four'],
+ 21: [103, 'one hundred and three'],
+ 22: [111, 'one hundred and eleven'],
+ 23: [115, 'one hundred and fifteen'],
+ 24: [113, 'one hundred and thirteen'],
+ 25: [117, 'one hundred and seventeen'],
+ 26: [121, 'one hundred and twenty-one'],
+ 27: [124, 'one hundred and twenty-four'],
+ 28: [123, 'one hundred and twenty-three'],
+ 29: [173, 'one hundred and seventy-three'],
+ 30: [323, 'three hundred and twenty-three'],
+ 31: [373, 'three hundred and seventy-three'],
+ 32: [1101, 'one thousand one hundred and one'],
+ 33: [1104, 'one thousand one hundred and four'],
+ 34: [1103, 'one thousand one hundred and three'],
+ 35: [1111, 'one thousand one hundred and eleven'],
+ 36: [1115, 'one thousand one hundred and fifteen'],
+ 37: [1113, 'one thousand one hundred and thirteen'],
+ 38: [1117, 'one thousand one hundred and seventeen'],
+ 39: [1121, 'one thousand one hundred and twenty-one'],
+ 40: [1124, 'one thousand one hundred and twenty-four'],
+ 41: [1123, 'one thousand one hundred and twenty-three'],
+ 42: [1173, 'one thousand one hundred and seventy-three'],
+ 43: [1323, 'one thousand three hundred and twenty-three'],
+ 44: [1373, 'one thousand three hundred and seventy-three'],
+ 45: [3323, 'three thousand three hundred and twenty-three'],
+ 46: [3373, 'three thousand three hundred and seventy-three'],
+ 47: [11373, 'eleven thousand three hundred and seventy-three'],
+ 48: [13323, 'thirteen thousand three hundred and twenty-three'],
+ 49: [13373, 'thirteen thousand three hundred and seventy-three'],
+ 50: [17373, 'seventeen thousand three hundred and seventy-three'],
+ 51: [21373, 'twenty-one thousand three hundred and seventy-three'],
+ 52: [23323, 'twenty-three thousand three hundred and twenty-three'],
+ 53: [23373, 'twenty-three thousand three hundred and seventy-three'],
+ 54: [73373, 'seventy-three thousand three hundred and seventy-three'],
+ 55: [101121, 'one hundred and one thousand one hundred and twenty-one'],
+ 56: [101124, 'one hundred and one thousand one hundred and twenty-four'],
+ 57: [101123, 'one hundred and one thousand one hundred and twenty-three'],
+ 58: [101173, 'one hundred and one thousand one hundred and seventy-three'],
+ 59: [101323, 'one hundred and one thousand three hundred and twenty-three'],
+ 60: [101373, 'one hundred and one thousand three hundred and seventy-three'],
+ 61: [103323, 'one hundred and three thousand three hundred and twenty-three'],
+ 62: [103373, 'one hundred and three thousand three hundred and seventy-three'],
+ 63: [111373,
+      'one hundred and eleven thousand three hundred and seventy-three'],
+ 64: [113323,
+      'one hundred and thirteen thousand three hundred and twenty-three'],
+ 65: [113373,
+      'one hundred and thirteen thousand three hundred and seventy-three'],
+ 66: [117373,
+      'one hundred and seventeen thousand three hundred and seventy-three'],
+ 67: [121373,
+      'one hundred and twenty-one thousand three hundred and seventy-three'],
+ 68: [123323,
+      'one hundred and twenty-three thousand three hundred and twenty-three'],
+ 69: [123373,
+      'one hundred and twenty-three thousand three hundred and seventy-three'],
+ 70: [173373,
+      'one hundred and seventy-three thousand three hundred and seventy-three'],
+ 71: [323373,
+      'three hundred and twenty-three thousand three hundred and '
+      'seventy-three'],
+ 72: [373373,
+      'three hundred and seventy-three thousand three hundred and '
+      'seventy-three'],
+ 73: [1103323,
+      'one million one hundred and three thousand three hundred and '
+      'twenty-three'],
+ 74: [1103373,
+      'one million one hundred and three thousand three hundred and '
+      'seventy-three'],
+ 75: [1111373,
+      'one million one hundred and eleven thousand three hundred and '
+      'seventy-three'],
+ 76: [1113323,
+      'one million one hundred and thirteen thousand three hundred and '
+      'twenty-three'],
+ 77: [1113373,
+      'one million one hundred and thirteen thousand three hundred and '
+      'seventy-three'],
+ 78: [1117373,
+      'one million one hundred and seventeen thousand three hundred and '
+      'seventy-three'],
+ 79: [1121373,
+      'one million one hundred and twenty-one thousand three hundred and '
+      'seventy-three'],
+ 80: [1123323,
+      'one million one hundred and twenty-three thousand three hundred and '
+      'twenty-three'],
+ 81: [1123373,
+      'one million one hundred and twenty-three thousand three hundred and '
+      'seventy-three'],
+ 82: [1173373,
+      'one million one hundred and seventy-three thousand three hundred and '
+      'seventy-three'],
+ 83: [1323373,
+      'one million three hundred and twenty-three thousand three hundred and '
+      'seventy-three'],
+ 84: [1373373,
+      'one million three hundred and seventy-three thousand three hundred and '
+      'seventy-three'],
+ 85: [3323373,
+      'three million three hundred and twenty-three thousand three hundred and '
+      'seventy-three'],
+ 86: [3373373,
+      'three million three hundred and seventy-three thousand three hundred '
+      'and seventy-three'],
+ 87: [11373373,
+      'eleven million three hundred and seventy-three thousand three hundred '
+      'and seventy-three'],
+ 88: [13323373,
+      'thirteen million three hundred and twenty-three thousand three hundred '
+      'and seventy-three'],
+ 89: [13373373,
+      'thirteen million three hundred and seventy-three thousand three hundred '
+      'and seventy-three'],
+ 90: [17373373,
+      'seventeen million three hundred and seventy-three thousand three '
+      'hundred and seventy-three'],
+ 91: [21373373,
+      'twenty-one million three hundred and seventy-three thousand three '
+      'hundred and seventy-three'],
+ 92: [23323373,
+      'twenty-three million three hundred and twenty-three thousand three '
+      'hundred and seventy-three'],
+ 93: [23373373,
+      'twenty-three million three hundred and seventy-three thousand three '
+      'hundred and seventy-three'],
+ 94: [73373373,
+      'seventy-three million three hundred and seventy-three thousand three '
+      'hundred and seventy-three']}
+____________________________________________________________________________________________________
+The character lengths were found in the following order:
+----------------------------------------------------------------------------------------------------
+[4, 3, 5, 6, 8, 7, 9, 10, 12, 11, 13, 19, 21, 20, 22, 24, 23, 25, 26, 28, 27, 29, 30, 31, 32, 34, 33, 35, 37, 36, 38, 39, 41, 40, 42, 43, 44, 14, 45, 46, 15, 47, 17, 48, 49, 16, 18, 50, 51, 52, 53, 54, 55, 57, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]
+____________________________________________________________________________________________________
+The numbers corresponding to the character lengths above are:
+----------------------------------------------------------------------------------------------------
+[0, 1, 3, 11, 13, 15, 17, 21, 23, 24, 73, 101, 103, 104, 111, 113, 115, 117, 121, 123, 124, 173, 323, 373, 1101, 1103, 1104, 1111, 1113, 1115, 1117, 1121, 1123, 1124, 1173, 1323, 1373, 3000, 3323, 3373, 11000, 11373, 13000, 13323, 13373, 15000, 17000, 17373, 21373, 23323, 23373, 73373, 101121, 101123, 101124, 101173, 101323, 101373, 103323, 103373, 111373, 113323, 113373, 117373, 121373, 123323, 123373, 173373, 323373, 373373, 1103323, 1103373, 1111373, 1113323, 1113373, 1117373, 1121373, 1123323, 1123373, 1173373, 1323373, 1373373, 3323373, 3373373, 11373373, 13323373, 13373373, 17373373, 21373373, 23323373, 23373373, 73373373]
+____________________________________________________________________________________________________
+Difference from element to element in above sequence:
+----------------------------------------------------------------------------------------------------
+[-1, 2, 1, 2, -1, 2, 1, 2, -1, 2, 6, 2, -1, 2, 2, -1, 2, 1, 2, -1, 2, 1, 1, 1, 2, -1, 2, 2, -1, 2, 1, 2, -1, 2, 1, 1, -30, 31, 1, -31, 32, -30, 31, 1, -33, 2, 32, 1, 1, 1, 1, 1, 2, -1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+
+
+JAGGED CLIFF (value ascending)
+zero
+one
+three
+eleven
+thirteen
+fifteen
+seventeen
+twenty-one
+twenty-three
+twenty-four
+seventy-three
+one hundred and one
+one hundred and three
+one hundred and four
+one hundred and eleven
+one hundred and thirteen
+one hundred and fifteen
+one hundred and seventeen
+one hundred and twenty-one
+one hundred and twenty-three
+one hundred and twenty-four
+one hundred and seventy-three
+three hundred and twenty-three
+three hundred and seventy-three
+one thousand one hundred and one
+one thousand one hundred and three
+one thousand one hundred and four
+one thousand one hundred and eleven
+one thousand one hundred and thirteen
+one thousand one hundred and fifteen
+one thousand one hundred and seventeen
+one thousand one hundred and twenty-one
+one thousand one hundred and twenty-three
+one thousand one hundred and twenty-four
+one thousand one hundred and seventy-three
+one thousand three hundred and twenty-three
+one thousand three hundred and seventy-three
+three thousand
+three thousand three hundred and twenty-three
+three thousand three hundred and seventy-three
+eleven thousand
+eleven thousand three hundred and seventy-three
+thirteen thousand
+thirteen thousand three hundred and twenty-three
+thirteen thousand three hundred and seventy-three
+fifteen thousand
+seventeen thousand
+seventeen thousand three hundred and seventy-three
+twenty-one thousand three hundred and seventy-three
+twenty-three thousand three hundred and twenty-three
+twenty-three thousand three hundred and seventy-three
+seventy-three thousand three hundred and seventy-three
+one hundred and one thousand one hundred and twenty-one
+one hundred and one thousand one hundred and twenty-three
+one hundred and one thousand one hundred and twenty-four
+one hundred and one thousand one hundred and seventy-three
+one hundred and one thousand three hundred and twenty-three
+one hundred and one thousand three hundred and seventy-three
+one hundred and three thousand three hundred and twenty-three
+one hundred and three thousand three hundred and seventy-three
+one hundred and eleven thousand three hundred and seventy-three
+one hundred and thirteen thousand three hundred and twenty-three
+one hundred and thirteen thousand three hundred and seventy-three
+one hundred and seventeen thousand three hundred and seventy-three
+one hundred and twenty-one thousand three hundred and seventy-three
+one hundred and twenty-three thousand three hundred and twenty-three
+one hundred and twenty-three thousand three hundred and seventy-three
+one hundred and seventy-three thousand three hundred and seventy-three
+three hundred and twenty-three thousand three hundred and seventy-three
+three hundred and seventy-three thousand three hundred and seventy-three
+one million one hundred and three thousand three hundred and twenty-three
+one million one hundred and three thousand three hundred and seventy-three
+one million one hundred and eleven thousand three hundred and seventy-three
+one million one hundred and thirteen thousand three hundred and twenty-three
+one million one hundred and thirteen thousand three hundred and seventy-three
+one million one hundred and seventeen thousand three hundred and seventy-three
+one million one hundred and twenty-one thousand three hundred and seventy-three
+one million one hundred and twenty-three thousand three hundred and twenty-three
+one million one hundred and twenty-three thousand three hundred and seventy-three
+one million one hundred and seventy-three thousand three hundred and seventy-three
+one million three hundred and twenty-three thousand three hundred and seventy-three
+one million three hundred and seventy-three thousand three hundred and seventy-three
+three million three hundred and twenty-three thousand three hundred and seventy-three
+three million three hundred and seventy-three thousand three hundred and seventy-three
+eleven million three hundred and seventy-three thousand three hundred and seventy-three
+thirteen million three hundred and twenty-three thousand three hundred and seventy-three
+thirteen million three hundred and seventy-three thousand three hundred and seventy-three
+seventeen million three hundred and seventy-three thousand three hundred and seventy-three
+twenty-one million three hundred and seventy-three thousand three hundred and seventy-three
+twenty-three million three hundred and twenty-three thousand three hundred and seventy-three
+twenty-three million three hundred and seventy-three thousand three hundred and seventy-three
+seventy-three million three hundred and seventy-three thousand three hundred and seventy-three
+
+
+NEAT SLOPE (length ascending)
+one
+zero
+three
+eleven
+fifteen
+thirteen
+seventeen
+twenty-one
+twenty-four
+twenty-three
+seventy-three
+three thousand
+eleven thousand
+fifteen thousand
+thirteen thousand
+seventeen thousand
+one hundred and one
+one hundred and four
+one hundred and three
+one hundred and eleven
+one hundred and fifteen
+one hundred and thirteen
+one hundred and seventeen
+one hundred and twenty-one
+one hundred and twenty-four
+one hundred and twenty-three
+one hundred and seventy-three
+three hundred and twenty-three
+three hundred and seventy-three
+one thousand one hundred and one
+one thousand one hundred and four
+one thousand one hundred and three
+one thousand one hundred and eleven
+one thousand one hundred and fifteen
+one thousand one hundred and thirteen
+one thousand one hundred and seventeen
+one thousand one hundred and twenty-one
+one thousand one hundred and twenty-four
+one thousand one hundred and twenty-three
+one thousand one hundred and seventy-three
+one thousand three hundred and twenty-three
+one thousand three hundred and seventy-three
+three thousand three hundred and twenty-three
+three thousand three hundred and seventy-three
+eleven thousand three hundred and seventy-three
+thirteen thousand three hundred and twenty-three
+thirteen thousand three hundred and seventy-three
+seventeen thousand three hundred and seventy-three
+twenty-one thousand three hundred and seventy-three
+twenty-three thousand three hundred and twenty-three
+twenty-three thousand three hundred and seventy-three
+seventy-three thousand three hundred and seventy-three
+one hundred and one thousand one hundred and twenty-one
+one hundred and one thousand one hundred and twenty-four
+one hundred and one thousand one hundred and twenty-three
+one hundred and one thousand one hundred and seventy-three
+one hundred and one thousand three hundred and twenty-three
+one hundred and one thousand three hundred and seventy-three
+one hundred and three thousand three hundred and twenty-three
+one hundred and three thousand three hundred and seventy-three
+one hundred and eleven thousand three hundred and seventy-three
+one hundred and thirteen thousand three hundred and twenty-three
+one hundred and thirteen thousand three hundred and seventy-three
+one hundred and seventeen thousand three hundred and seventy-three
+one hundred and twenty-one thousand three hundred and seventy-three
+one hundred and twenty-three thousand three hundred and twenty-three
+one hundred and twenty-three thousand three hundred and seventy-three
+one hundred and seventy-three thousand three hundred and seventy-three
+three hundred and twenty-three thousand three hundred and seventy-three
+three hundred and seventy-three thousand three hundred and seventy-three
+one million one hundred and three thousand three hundred and twenty-three
+one million one hundred and three thousand three hundred and seventy-three
+one million one hundred and eleven thousand three hundred and seventy-three
+one million one hundred and thirteen thousand three hundred and twenty-three
+one million one hundred and thirteen thousand three hundred and seventy-three
+one million one hundred and seventeen thousand three hundred and seventy-three
+one million one hundred and twenty-one thousand three hundred and seventy-three
+one million one hundred and twenty-three thousand three hundred and twenty-three
+one million one hundred and twenty-three thousand three hundred and seventy-three
+one million one hundred and seventy-three thousand three hundred and seventy-three
+one million three hundred and twenty-three thousand three hundred and seventy-three
+one million three hundred and seventy-three thousand three hundred and seventy-three
+three million three hundred and twenty-three thousand three hundred and seventy-three
+three million three hundred and seventy-three thousand three hundred and seventy-three
+eleven million three hundred and seventy-three thousand three hundred and seventy-three
+thirteen million three hundred and twenty-three thousand three hundred and seventy-three
+thirteen million three hundred and seventy-three thousand three hundred and seventy-three
+seventeen million three hundred and seventy-three thousand three hundred and seventy-three
+twenty-one million three hundred and seventy-three thousand three hundred and seventy-three
+twenty-three million three hundred and twenty-three thousand three hundred and seventy-three
+twenty-three million three hundred and seventy-three thousand three hundred and seventy-three
+seventy-three million three hundred and seventy-three thousand three hundred and seventy-three
+2020-01-30 05:46:36 jiacopon@jiacopon-ubuntu-02 ~/work/shell_scripts$
+
+--> it took from 2:09am to 5.46am so 3h37m to do 100 million
+--> 100million loops in roughly 3*60*60 + 37*60 seconds = 0.13ms per loop :)
